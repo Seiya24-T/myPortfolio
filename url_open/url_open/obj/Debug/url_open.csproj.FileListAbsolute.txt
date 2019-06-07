@@ -1,0 +1,10 @@
+C:\Users\sassp\source\repos\url_open\url_open\bin\Debug\url_open.exe.config
+C:\Users\sassp\source\repos\url_open\url_open\bin\Debug\url_open.exe
+C:\Users\sassp\source\repos\url_open\url_open\bin\Debug\url_open.pdb
+C:\Users\sassp\source\repos\url_open\url_open\obj\Debug\url_open.csprojAssemblyReference.cache
+C:\Users\sassp\source\repos\url_open\url_open\obj\Debug\url_open.Form1.resources
+C:\Users\sassp\source\repos\url_open\url_open\obj\Debug\url_open.Properties.Resources.resources
+C:\Users\sassp\source\repos\url_open\url_open\obj\Debug\url_open.csproj.GenerateResource.cache
+C:\Users\sassp\source\repos\url_open\url_open\obj\Debug\url_open.csproj.CoreCompileInputs.cache
+C:\Users\sassp\source\repos\url_open\url_open\obj\Debug\url_open.exe
+C:\Users\sassp\source\repos\url_open\url_open\obj\Debug\url_open.pdb
